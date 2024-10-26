@@ -1,0 +1,68 @@
+[ 
+    
+    
+    {
+        "id": 1,
+        "name": "Password Generator WebApp",
+        "desc": "It generates a random password of your chosen length and characters.",
+        "image": "./assets/images/Pass_Gen.png",
+        "links": {
+            "view": "https://satish-chau95.github.io/Password_Generator/",
+            "code": "https://github.com/satish-chau95/Password_Generator"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Weather App",
+        "desc": "This is a web application that is based on Current Weather Conditions and City-based Forecast.",
+        "image": "",
+        "links": {
+            "view": "https://satish-chau95.github.io/Weather_App/",
+            "code": "https://github.com/satish-chau95/Weather_App"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Landing Page",
+        "desc": "Design of a responsive landing page using HTML, CSS, and JavaScript based on a Figma design.",
+        "image": "",
+        "links": {
+            "view": "https://satish-landingpage.netlify.app/",
+            "code": "https://github.com/satish-chau95/Landing_Page"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Portfolio Website",
+        "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+        "image": "",
+        "links": {
+            "view": "https://ayushgupta9906.github.io/Portfolio-Website/",
+            "code": "https://github.com/ayushgupta9906/Portfolio-Website"
+        }
+    }
+    ,
+    {
+        "id": 5,
+        "name": "MovieLib",
+        "desc": "The MovieLib site allows users to browse a collection of movies, view detailed information about each movie.",
+        "image": "",
+        "links": {
+            "view": "https://satish-movielib.netlify.app/",
+            "code": "https://github.com/satish-chau95/MovieLib"
+        }
+    },
+    {
+        "id": 6,
+        "name": "ToDo ",
+        "desc": "This MERN stack application enables users to create, manage, and track tasks in a to-do list, showcasing full-stack development skills with modern JavaScript frameworks.",
+        "image":"",
+        "links": {
+            "view": "https://to-do-mernsatish.vercel.app/",
+            "code": "https://github.com/satish-chau95/To-Do-MERN"
+        }
+    }
+
+    
+    
+]
